@@ -1,3 +1,5 @@
+![CI](https://github.com/andremicocci/twitter-challenge/workflows/CI/badge.svg)
+
 # Case - Desafio Técnico
 
 Este desafio consiste em criar uma aplicação para atender as funcionalidades mencionadas abaixo:
